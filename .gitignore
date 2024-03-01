@@ -1,1 +1,9 @@
 venv
+.env
+
+go_hub/dps_calculator/__pycache__
+go_hub/go_hub/__pycache__
+
+*.pyc
+
+go_hub/dps_calculator/migrations
