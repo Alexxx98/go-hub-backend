@@ -2,8 +2,12 @@ asgiref==3.7.2
 certifi==2024.2.2
 charset-normalizer==3.3.2
 Django==5.0.2
+django-filter==23.5
 djangorestframework==3.14.0
+djangorestframework-jsonapi==6.1.0
 idna==3.6
+inflection==0.5.1
+Markdown==3.5.2
 psycopg2==2.9.9
 python-dotenv==1.0.1
 pytz==2024.1
